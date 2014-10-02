@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navi>
+    <menu>
+        <name>윤하</name>
+        <best>비밀번호</best>
+    </menu>
+    <menu>
+        <name>윤화</name>
+        <best>개인번호</best>
+    </menu>
+</navi>
